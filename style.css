@@ -3,3 +3,5 @@
 .overlay.hidden{display:none}
 
 #health{color:#d7f36a;font-size:20px;letter-spacing:2px}@media(max-width:700px){.metrics{gap:9px}.metrics strong{font-size:13px}#health{font-size:13px;letter-spacing:0}.mission{gap:2px}.hud{padding:0 8px}.metrics small{letter-spacing:.5px}}
+
+.controls>div>kbd.airstrike-key:first-child{display:inline-block}.controls{flex-wrap:wrap}.touch{flex-wrap:wrap}.touch button{min-width:45px}
